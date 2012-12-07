@@ -4,8 +4,8 @@ I've been meaning to start up another blog for quite some time now, with a varie
 
 With regards to the repo name it would also been what I named my blog which is just 'On.' This is because I intend to be topic driven with my writings and due to my inability to come up with creative titles, most of my entries would have just been named 'On <topic name>', (i.e. 'On gaming', 'On coding', 'On basketball', 'On laundry', etc...).
 
-So here goes... I hope you enjoy, provide feedback (good and bad) on what I write about.
+So here goes... I hope you enjoy and provide feedback (grammar suggestions, opinions, comments) both good and bad on what I write about.
 
-Thanks for your time.
+Thank you for your time.
 
 Aurelio D. Tinio
