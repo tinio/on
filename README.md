@@ -1,6 +1,6 @@
 On.
 ==
-I've been meaning to start up another blog for quite some time now, with a variety of topics on my mind that I'd like to explore, write about and expand upon. I never got around to properly set up a WordPress instance but my needs are very minimal and with GitHub's support for creating new files, I think using this web interface would suffice and to some extent actually be ideal.
+I've been meaning to start up another blog for quite some time now, given the variety of topics on my mind that I'd like to explore, write about and expand upon. I never got around to properly set up a WordPress instance but my needs are very minimal and with GitHub's support for creating new files, I think using this web interface would suffice and to some extent actually be ideal.
 
 With regards to the repo name it would have been what I also named the blog which is just 'On.' This is because I intend to be topic driven with my writings and due to my inability to come up with creative titles, most of my entries would have just been titled 'On \<topic name\>', (i.e. 'On gaming', 'On coding', 'On basketball', 'On laundry', etc...).
 
